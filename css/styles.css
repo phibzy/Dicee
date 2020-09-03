@@ -1,0 +1,54 @@
+/*.container {*/
+   /*width: 70%;*/
+   /*margin: auto;*/
+/*}*/
+
+body {
+   background-color: #393E46;
+   text-align: center;
+}
+
+h1 {
+   font-family: 'Lobster', cursive;
+   font-size: 12rem;
+   color: #4ECCA3;
+   margin: 4rem;
+   margin-bottom: 0;
+   text-shadow: 6px -2px #000000;
+}
+
+h3, p {
+   font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+   color: #4ECCA3;
+   font-size: 2.7rem;
+   font-weight: normal;
+}
+
+img {
+   width: 19.5rem;
+}
+
+.colPlayer {
+   margin: 0 2rem;
+}
+
+.playerRow {
+   display: flex;
+   justify-content: center;
+   margin: 4rem;
+}
+
+.byline {
+   margin: 10rem;
+}
+
+.byline p {
+   color: #EEEEEE;
+   font-size: 1.5rem;
+}
+
+
+/* #TODO: viewport breakpoints for 750px and lower*/
